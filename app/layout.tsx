@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Metadata Scrapper",
+  title: "Metadata Scraper",
   description: "Effortlessly extract website metadata like titles, descriptions, and keywords with MetaScrape",
 };
 
